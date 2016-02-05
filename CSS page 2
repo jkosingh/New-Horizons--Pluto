@@ -1,0 +1,23 @@
+body{
+         background-image: url(main6.png);
+
+}
+h1{
+    color:#FFF;
+}
+h2{
+    color:#FFF;
+    text-align: center;
+}
+#Primary{
+     width: 50%;
+    float: left;
+    text-align: center;
+    color:#fff;
+}
+#Secondary{
+     width: 50%;
+    float: left;
+    text-align: center;
+    color:#FFF;
+}
