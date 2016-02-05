@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>New Horizons</title>
+<link rel="stylesheet" href="assignment3-1.css" type="text/css" />
+</head>
+<body>
+<h1>New Horizons</h1>
+<div id = "Main">
+<h2> Pluto's Puzzling Surface </h2>
+<p> Pluto is a small planet apparently, well not really it's actually a dwarf planet that is getting photographed this week by a probe that we sent out like 8 years ago soo that's pretty cool just so you know... </p>
+</div>
+<div id = "Where">
+<h3> Where is New Horizons? </h3>
+<p> New horizons is a place where I can accurately state is somewhere in this universe. Be more specific on might say, but guys I really have no idea. Y'know how you can usually say that a place is at least on Earth when hanging out with friends and you get  a couple chuckles? I can't even say that cause it's literally a article on flipping space man. Literally. </p>
+</div>
+<div id = "featured">
+<h3> Featured Programming </h3>
+<p> This website was brought to you in part by SpaceJam 2 the origin story. Yup that's right it's back no matter how much you don't want it. Confused yet? It's alright I am too. </p>
+</div>
+<div id = "Pluto">
+<h3> The time on Pluto </h3>
+<p> it's 7pm. Don't ask any follow up questions, trust me. It's 7pm. </p>
+</div>
+<div id = "flyby">
+<h3> All about the Pluto Flyby </h3>
+<p> Well we flew by Pluto, enjoyed his company, nice guy and all, but he was pretty cold so then we peaced out leaving the poor bloke heartbroken. </p>
+</div>
+<div id = "Countdown">
+<h3> Countdown </h3>
+<p> Time until Pluto has his pictures go viral online and for people to #pluto for a whole week before forgetting about him again </p>
+</div>
+<div id = "News">
+<h3> Latest News </h3>
+<p> BREAKING news FOX news station announces they have actually been a parody show of a news show but were to afraid to come out until now. We'll update you on the latest at 5. Or not Who knows who we're run by</p>
+</div>
+<div id = "Stay">
+<h3> Stay Connected </h3>
+<p> Please stay on this site because we got cookies. We didn't say you could have any. Just letting you know we got em. So yeah this is awkward. </p>
+</div>
+<div id = "Media">
+<h3> Media Programming </h3>
+<p> This is where experts will tell you what is right or wrong. What? you have a book that says different? Well does that book have a Media Programming area? Didn't think so.  </p>
+</div>
+
+
+</body>
+</html>
